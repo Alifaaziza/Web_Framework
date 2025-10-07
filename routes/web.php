@@ -2,41 +2,75 @@
 
 use Illuminate\Support\Facades\Route;
 
-// 1. HOME
+// 1. HOME - Halaman Utama
 Route::get('/', function () {
-    return 'HOME PAGE - Welcome to our website!';
-});
+    return view('home');
+})->name('home');
 
-// 2. ABOUT
+// 2. ABOUT - Tentang Kami
 Route::get('/about', function () {
-    return 'ABOUT PAGE - Learn more about us';
-});
+    return view('about');
+})->name('about');
 
-// 3. PROGRAM dengan PARAMETER
+// 3. PROGRAM - Program & Produk
 Route::get('/program/{id?}', function ($id = null) {
-    return $id ? "PROGRAM DETAIL - Program ID: $id" : 'PROGRAM LIST - All programs';
-});
+    if ($id) {
+        // Jika ada ID, tampilkan detail program
+        $programs = [
+            '1' => ['name' => 'Program Reseller', 'description' => 'Program kemitraan reseller'],
+            '2' => ['name' => 'Langganan Bulanan', 'description' => 'Program berlangganan bulanan'],
+            '3' => ['name' => 'Program Kemitraan', 'description' => 'Program kemitraan usaha']
+        ];
+        
+        $program = $programs[$id] ?? null;
+        
+        if ($program) {
+            return view('program-detail', [
+                'program' => $program,
+                'id' => $id
+            ]);
+        }
+    }
+    
+    // Jika tidak ada ID, tampilkan semua program
+    return view('program');
+})->name('program');
 
-// 4. OUR TEAM dengan GROUP
+// 4. OUR TEAM - Tim Kami
 Route::prefix('team')->group(function () {
     Route::get('/', function () {
-        return 'TEAM PAGE - Our team members';
-    });
+        return view('ourteam');
+    })->name('ourteam');
     
     Route::get('/{id}', function ($id) {
-        return "TEAM MEMBER - Member ID: $id";
-    });
+        $teamMembers = [
+            '1' => ['name' => 'Siti Rahayu', 'position' => 'Founder & CEO'],
+            '2' => ['name' => 'Ahmad Fauzi', 'position' => 'Head of Production'],
+            '3' => ['name' => 'Maya Sari', 'position' => 'Marketing Manager']
+        ];
+        
+        $member = $teamMembers[$id] ?? null;
+        
+        if ($member) {
+            return view('team-member', [
+                'member' => $member,
+                'id' => $id
+            ]);
+        }
+        
+        abort(404);
+    })->name('team.member');
 });
 
-// 5. CONTACT US
+// 5. CONTACT US - Hubungi Kami
 Route::get('/contact', function () {
-    return 'CONTACT PAGE - Get in touch with us';
-});
+    return view('contactus');
+})->name('contactus');
 
-// 6. REDIRECT
+// 6. REDIRECT - Alias untuk about
 Route::redirect('/about-us', '/about');
 
-// 7. FALLBACK (harus paling bawah)
+// 7. FALLBACK - Halaman 404 (harus paling bawah)
 Route::fallback(function () {
-    return '404 - Page not found';
+    return view('404');
 });
