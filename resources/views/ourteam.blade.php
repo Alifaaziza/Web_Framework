@@ -33,9 +33,8 @@
                         <p class="text-muted">2310120002</p>
                         <p class="card-text">Pendiri Amplang Kalimantan dengan pengalaman lebih dari 10 tahun dalam industri makanan tradisional.</p>
                         <div class="social-links">
-                            <a href="#" class="text-primary me-2"><i class="fab fa-linkedin"></i></a>
-                            <a href="#" class="text-primary me-2"><i class="fab fa-instagram"></i></a>
-                            <a href="#" class="text-primary"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.linkedin.com/in/alifa-nur-azizah-9b5bb1311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="text-primary me-2"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://www.instagram.com/azzh.alifaa?igsh=NndzOGl5MWp4YXNq&utm_source=qr" class="text-primary me-2"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
@@ -48,9 +47,8 @@
                         <p class="text-muted">2310120013</p>
                         <p class="card-text">Bertanggung jawab atas kualitas produksi dan menjaga cita rasa autentik amplang Kalimantan.</p>
                         <div class="social-links">
-                            <a href="#" class="text-primary me-2"><i class="fab fa-linkedin"></i></a>
-                            <a href="#" class="text-primary me-2"><i class="fab fa-instagram"></i></a>
-                            <a href="#" class="text-primary"><i class="fab fa-twitter"></i></a>
+                            <a href="www.linkedin.com/in/tiara-widya-7615742a3" class="text-primary me-2"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://www.instagram.com/tiara.awdy?igsh=MWFoM3U4YTcwYXhvZA==" class="text-primary me-2"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
@@ -63,9 +61,8 @@
                         <p class="text-muted">2310120023</p>
                         <p class="card-text">Mengelola pemasaran dan perluasan jaringan distribusi produk ke seluruh Indonesia.</p>
                         <div class="social-links">
-                            <a href="#" class="text-primary me-2"><i class="fab fa-linkedin"></i></a>
-                            <a href="#" class="text-primary me-2"><i class="fab fa-instagram"></i></a>
-                            <a href="#" class="text-primary"><i class="fab fa-twitter"></i></a>
+                            <a href="www.linkedin.com/in/marizke-mega-utami-b83a051b3" class="text-primary me-2"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://www.instagram.com/marizke_?igsh=MXh2MXJkMGp2NzgyNg==" class="text-primary me-2"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
