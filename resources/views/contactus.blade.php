@@ -60,7 +60,7 @@
                     <i class="fas fa-phone text-primary fa-2x me-3"></i>
                     <div>
                         <h5>Telepon</h5>
-                        <p class="mb-0">+62 812-3456-7890</p>
+                        <p class="mb-0">+62 89693484459</p>
                     </div>
                 </div>
 
@@ -68,7 +68,7 @@
                     <i class="fas fa-envelope text-primary fa-2x me-3"></i>
                     <div>
                         <h5>Email</h5>
-                        <p class="mb-0">info@amplangkalimantan.com</p>
+                        <p class="mb-0">amplangtifanny@gmail.com</p>
                     </div>
                 </div>
 

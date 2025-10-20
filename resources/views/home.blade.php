@@ -39,10 +39,10 @@
                 <div class="card product-card shadow-sm h-100">
                     <img src="{{ asset('images/amplang3.jpeg') }}" class="card-img-top" alt="Amplang Pedas"  width=400 height=400>
                     <div class="card-body">
-                        <h5 class="card-title">Amplang 300gr</h5>
-                        <p class="card-text">Ukuran lebih besar.</p>
+                        <h5 class="card-title">Amplang 180 gr</h5>
+                        <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan. dengan ukuran lebih besar.</p>
                         <div class="d-flex justify-content-between align-items-center">
-                            <span class="fw-bold text-primary">Rp 28.000</span>
+                            <span class="fw-bold text-primary">Rp 30.000</span>
                             <button class="btn btn-sm btn-outline-primary">Beli Sekarang</button>
                         </div>
                     </div>
@@ -52,10 +52,10 @@
                 <div class="card product-card shadow-sm h-100">
                     <img src="{{ asset('images/amplang4.jpeg') }}" class="card-img-top" alt="Amplang Balado"  width=400 height=400>
                     <div class="card-body">
-                        <h5 class="card-title">Amplang Balado</h5>
-                        <p class="card-text">Perpaduan renyahnya amplang dengan bumbu balado khas Minang yang nikmat.</p>
+                        <h5 class="card-title">Amplang 1000 gr</h5>
+                        <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan. dengan ukuran jumbo</p>
                         <div class="d-flex justify-content-between align-items-center">
-                            <span class="fw-bold text-primary">Rp 30.000</span>
+                            <span class="fw-bold text-primary">Rp 150.000</span>
                             <button class="btn btn-sm btn-outline-primary">Beli Sekarang</button>
                         </div>
                     </div>
