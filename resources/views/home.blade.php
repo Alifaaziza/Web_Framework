@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-md-4 mb-4">
                 <div class="card product-card shadow-sm h-100">
-                    <img src="{{ asset('images/amplang2.jpg') }}" alt="amplang2>" class="card-img-top" alt="Amplang Original">
+                    <img src="{{ asset('images/amplang2.jpg') }}" alt="amplang2>" class="card-img-top" alt="Amplang Original"  width=400 height=400>
                     <div class="card-body">
                         <h5 class="card-title">Amplang reguler</h5>
                         <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan.</p>
@@ -37,7 +37,7 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card product-card shadow-sm h-100">
-                    <img src="https://tse2.mm.bing.net/th/id/OIP.Twwuc9BlEZdAtLksjsOcVQHaHa?pid=Api&P=0&h=220" class="card-img-top" alt="Amplang Pedas">
+                    <img src="https://tse2.mm.bing.net/th/id/OIP.Twwuc9BlEZdAtLksjsOcVQHaHa?pid=Api&P=0&h=220" class="card-img-top" alt="Amplang Pedas"  width=400 height=400>
                     <div class="card-body">
                         <h5 class="card-title">Amplang 300gr</h5>
                         <p class="card-text">Ukuran lebih besar.</p>
@@ -50,7 +50,7 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card product-card shadow-sm h-100">
-                    <img src="https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="card-img-top" alt="Amplang Balado">
+                    <img src="https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="card-img-top" alt="Amplang Balado"  width=400 height=400>
                     <div class="card-body">
                         <h5 class="card-title">Amplang Balado</h5>
                         <p class="card-text">Perpaduan renyahnya amplang dengan bumbu balado khas Minang yang nikmat.</p>
