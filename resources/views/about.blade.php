@@ -26,7 +26,7 @@
                 <p>Kami berkomitmen untuk menjaga cita rasa autentik amplang Kalimantan dengan bahan baku ikan segar pilihan, sambil terus berinovasi dalam varian rasa dan kemasan modern agar tetap diminati oleh berbagai kalangan.</p>
             </div>
             <div class="col-md-6">
-                <img src="{{ asset('images/ibu widayati.jpg') }}" alt="tiara>" class="img-fluid rounded shadow" alt="Sejarah Amplang Kalimantan">
+                 <img src="{{ asset('images/ibu 2.jpg') }}" class="card-img-top" alt="Amplang Original"  width=400 height=300>
             </div>
         </div>
     </div>
