@@ -27,7 +27,7 @@
         <div class="row">
             <div class="col-md-4 mb-4">
                 <div class="card product-card shadow-sm h-100">
-                    <img src="{{ asset('images/amplang1.jpg') }}" class="card-img-top" alt="Amplang Original"  width=400 height=400>
+                    <img src="{{ asset('images/amplang8.jpeg') }}" class="card-img-top" alt="Amplang Original"  width=400 height=400>
                     <div class="card-body">
                         <h5 class="card-title">Amplang Original</h5>
                         <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan.</p>
@@ -66,7 +66,7 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card product-card shadow-sm h-100">
-                    <img src="https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="card-img-top" alt="Amplang Keju"  width=400 height=400>
+                    <img src="{{ asset('images/amplang 6.jpeg') }}" class="card-img-top" alt="Amplang "  width=400 height=400>
                     <div class="card-body">
                         <h5 class="card-title">Amplang Keju</h5>
                         <p class="card-text">Varian premium dengan taburan keju parut yang gurih, cocok untuk semua usia.</p>
@@ -79,7 +79,7 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card product-card shadow-sm h-100">
-                    <img src="https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="card-img-top" alt="Amplang Rumput Laut" width=400 height=400>
+                    <img src="{{ asset('images/amplang7.jpeg') }}" class="card-img-top" alt= "Amplang Rumput Laut" width=400 height=400>
                     <div class="card-body">
                         <h5 class="card-title">Amplang Rumput Laut</h5>
                         <p class="card-text">Kombinasi unik amplang dengan serpihan rumput laut yang kaya nutrisi.</p>
@@ -92,7 +92,7 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card product-card shadow-sm h-100">
-                    <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="card-img-top" alt="Paket Beragam Rasa"  width=400 height=400>
+                    <img src="{{ asset('images/amplang9.jpeg') }}" class="card-img-top" alt="Paket Beragam Rasa"  width=400 height=400>
                     <div class="card-body">
                         <h5 class="card-title">Paket Beragam Rasa</h5>
                         <p class="card-text">Paket komplit berisi semua varian rasa amplang kami dalam kemasan eksklusif.</p>
