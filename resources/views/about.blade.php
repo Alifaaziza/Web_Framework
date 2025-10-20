@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col text-center">
                 <h1>Tentang Amplang Kalimantan</h1>
-                <p class="lead">Menjaga cita rasa autentik Kalimantan sejak 2010</p>
+                <p class="lead">Menjaga cita rasa autentik Kalimantan sejak 2012</p>
             </div>
         </div>
     </div>
@@ -21,9 +21,9 @@
         <div class="row align-items-center">
             <div class="col-md-6">
                 <h2>Sejarah Kami</h2>
-                <p>Amplang Kalimantan didirikan pada tahun 2010 oleh Ibu Siti, seorang pengusaha lokal yang ingin memperkenalkan kelezatan amplang khas Kalimantan kepada masyarakat luas.</p>
-                <p>Berawal dari usaha rumahan dengan peralatan sederhana, kini kami telah berkembang menjadi UMKM yang mempekerjakan 15 karyawan dan mampu memproduksi hingga 500 kg amplang per bulan.</p>
-                <p>Kami berkomitmen untuk menjaga cita rasa autentik amplang Kalimantan sambil terus berinovasi dengan varian rasa yang disukai konsumen.</p>
+                <p>Amplang Tifanny didirikan pada tahun 2012 oleh Ibu Widayati, seorang pengusaha lokal yang bertekad melestarikan camilan tradisional khas Kalimantan dan memperkenalkannya ke masyarakat luas.</p>
+                <p>Berawal dari usaha rumahan kecil yang mengandalkan resep turun-temurun keluarga dan peralatan sederhana, kini Amplang Tifanny telah berkembang menjadi UMKM unggulan yang mempekerjakan lebih dari 10 karyawan dan mampu memproduksi hingga 300 kg amplang per bulan.</p>
+                <p>Kami berkomitmen untuk menjaga cita rasa autentik amplang Kalimantan dengan bahan baku ikan segar pilihan, sambil terus berinovasi dalam varian rasa dan kemasan modern agar tetap diminati oleh berbagai kalangan.</p>
             </div>
             <div class="col-md-6">
                 <img src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" class="img-fluid rounded shadow" alt="Sejarah Amplang Kalimantan">
