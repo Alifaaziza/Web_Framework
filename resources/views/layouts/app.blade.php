@@ -74,9 +74,9 @@
                 <div class="col-md-6 text-md-end">
                     <p>&copy; 2023 Amplang Kalimantan. All rights reserved.</p>
                     <div class="social-links">
-                        <a href="#" class="text-dark me-2"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.instagram.com/tifannyamplang_ptk?igsh=aHZyeDgzZWM5MWxw" class="text-dark me-2"><i class="fab fa-instagram"></i></a>
                         <a href="#" class="text-dark me-2"><i class="fab fa-facebook"></i></a>
-                        <a href="#" class="text-dark"><i class="fab fa-whatsapp"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=6281883424016" class="text-dark""><i class="fab fa-whatsapp"></i></a>
                     </div>
                 </div>
             </div>
