@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col text-center">
                 <h1>Tim Kami</h1>
-                <p class="lead">Orang-orang di balik pengembangan website amplang kalimantan</p>
+                <p class="lead">Orang-orang di balik pengembangan website amplang kalimantan enak</p>
             </div>
         </div>
     </div>
