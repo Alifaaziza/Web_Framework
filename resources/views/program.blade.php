@@ -29,10 +29,10 @@
                 <div class="card product-card shadow-sm h-100">
                     <img src="{{ asset('images/amplang8.jpeg') }}" class="card-img-top" alt="Amplang Original"  width=400 height=400>
                     <div class="card-body">
-                        <h5 class="card-title">Amplang Original</h5>
+                        <h5 class="card-title">Amplang 85 gr</h5>
                         <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan.</p>
                         <div class="d-flex justify-content-between align-items-center">
-                            <span class="fw-bold text-primary">Rp 25.000</span>
+                            <span class="fw-bold text-primary">Rp 12.500</span>
                             <button class="btn btn-sm btn-primary">Beli Sekarang</button>
                         </div>
                     </div>
@@ -42,10 +42,10 @@
                 <div class="card product-card shadow-sm h-100">
                     <img src="https://tse4.mm.bing.net/th/id/OIP.jylGEwWT--mfUHHMzxJRHAHaE8?pid=Api&P=0&h=220" class="card-img-top" alt="Amplang Pedas"  width=400 height=400>
                     <div class="card-body">
-                        <h5 class="card-title">Amplang Pedas</h5>
-                        <p class="card-text">Untuk penggemar pedas, amplang dengan campuran cabai pilihan yang menggugah selera.</p>
+                        <h5 class="card-title">Amplang 120 gr</h5>
+                        <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan.</p>
                         <div class="d-flex justify-content-between align-items-center">
-                            <span class="fw-bold text-primary">Rp 28.000</span>
+                            <span class="fw-bold text-primary">Rp 20.000</span>
                             <button class="btn btn-sm btn-primary">Beli Sekarang</button>
                         </div>
                     </div>
@@ -55,8 +55,8 @@
                 <div class="card product-card shadow-sm h-100">
                     <img src="{{ asset('images/amplang4.jpeg') }}" class="card-img-top" alt="Amplang Balado"  width=400 height=400>
                     <div class="card-body">
-                        <h5 class="card-title">Amplang Balado</h5>
-                        <p class="card-text">Perpaduan renyahnya amplang dengan bumbu balado khas Minang yang nikmat.</p>
+                        <h5 class="card-title">Amplang 180 gr</h5>
+                        <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan.</p>
                         <div class="d-flex justify-content-between align-items-center">
                             <span class="fw-bold text-primary">Rp 30.000</span>
                             <button class="btn btn-sm btn-primary">Beli Sekarang</button>
@@ -68,10 +68,10 @@
                 <div class="card product-card shadow-sm h-100">
                     <img src="{{ asset('images/amplang 6.jpeg') }}" class="card-img-top" alt="Amplang "  width=400 height=400>
                     <div class="card-body">
-                        <h5 class="card-title">Amplang Keju</h5>
-                        <p class="card-text">Varian premium dengan taburan keju parut yang gurih, cocok untuk semua usia.</p>
+                        <h5 class="card-title">Amplang 500 gr</h5>
+                        <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan.</p>
                         <div class="d-flex justify-content-between align-items-center">
-                            <span class="fw-bold text-primary">Rp 32.000</span>
+                            <span class="fw-bold text-primary">Rp 75.000</span>
                             <button class="btn btn-sm btn-primary">Beli Sekarang</button>
                         </div>
                     </div>
@@ -81,10 +81,10 @@
                 <div class="card product-card shadow-sm h-100">
                     <img src="{{ asset('images/amplang7.jpeg') }}" class="card-img-top" alt= "Amplang Rumput Laut" width=400 height=400>
                     <div class="card-body">
-                        <h5 class="card-title">Amplang Rumput Laut</h5>
-                        <p class="card-text">Kombinasi unik amplang dengan serpihan rumput laut yang kaya nutrisi.</p>
+                        <h5 class="card-title">Amplang 1000 gr</h5>
+                        <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan.</p>
                         <div class="d-flex justify-content-between align-items-center">
-                            <span class="fw-bold text-primary">Rp 29.000</span>
+                            <span class="fw-bold text-primary">Rp 150.000</span>
                             <button class="btn btn-sm btn-primary">Beli Sekarang</button>
                         </div>
                     </div>
@@ -94,10 +94,10 @@
                 <div class="card product-card shadow-sm h-100">
                     <img src="{{ asset('images/amplang9.jpeg') }}" class="card-img-top" alt="Paket Beragam Rasa"  width=400 height=400>
                     <div class="card-body">
-                        <h5 class="card-title">Paket Beragam Rasa</h5>
-                        <p class="card-text">Paket komplit berisi semua varian rasa amplang kami dalam kemasan eksklusif.</p>
+                        <h5 class="card-title">Amplang 1500 gr</h5>
+                        <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan.</p>
                         <div class="d-flex justify-content-between align-items-center">
-                            <span class="fw-bold text-primary">Rp 85.000</span>
+                            <span class="fw-bold text-primary">Rp 200.000</span>
                             <button class="btn btn-sm btn-primary">Beli Sekarang</button>
                         </div>
                     </div>
