@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col text-center">
                 <h1>Tim Kami</h1>
-                <p class="lead">Orang-orang di balik kelezatan amplang Kalimantan</p>
+                <p class="lead">Orang-orang di balik pengembangan website amplang kalimantan</p>
             </div>
         </div>
     </div>
@@ -21,16 +21,16 @@
         <div class="row mb-4">
             <div class="col text-center">
                 <h2>Tim Inti</h2>
-                <p class="text-muted">Para pendiri dan pengelola Amplang Kalimantan</p>
+                <p class="text-muted">Tim kami</p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4 mb-4">
                 <div class="card text-center border-0 shadow-sm">
-                    <img src="https://randomuser.me/api/portraits/women/65.jpg" class="card-img-top rounded-circle mx-auto mt-4" style="width: 150px; height: 150px; object-fit: cover;" alt="Siti Rahayu">
+                    <img src="{{ asset('images/foto_alifa.JPG') }}" alt="foto_alifa>" class="card-img-top rounded-circle mx-auto mt-4" style="width: 150px; height: 150px; object-fit: cover;" alt="Siti Rahayu">
                     <div class="card-body">
-                        <h5 class="card-title">Siti Rahayu</h5>
-                        <p class="text-muted">Founder & CEO</p>
+                        <h5 class="card-title">Alifa Nur Azizah</h5>
+                        <p class="text-muted">2310120002</p>
                         <p class="card-text">Pendiri Amplang Kalimantan dengan pengalaman lebih dari 10 tahun dalam industri makanan tradisional.</p>
                         <div class="social-links">
                             <a href="#" class="text-primary me-2"><i class="fab fa-linkedin"></i></a>
@@ -42,10 +42,10 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card text-center border-0 shadow-sm">
-                    <img src="https://randomuser.me/api/portraits/men/32.jpg" class="card-img-top rounded-circle mx-auto mt-4" style="width: 150px; height: 150px; object-fit: cover;" alt="Ahmad Fauzi">
+                    <img src="{{ asset('images/tiara.JPG') }}" alt="tiara>" class="card-img-top rounded-circle mx-auto mt-4" style="width: 150px; height: 150px; object-fit: cover;" alt="Ahmad Fauzi">
                     <div class="card-body">
-                        <h5 class="card-title">Ahmad Fauzi</h5>
-                        <p class="text-muted">Head of Production</p>
+                        <h5 class="card-title">Tiara Widya</h5>
+                        <p class="text-muted">2310120013</p>
                         <p class="card-text">Bertanggung jawab atas kualitas produksi dan menjaga cita rasa autentik amplang Kalimantan.</p>
                         <div class="social-links">
                             <a href="#" class="text-primary me-2"><i class="fab fa-linkedin"></i></a>
@@ -57,10 +57,10 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card text-center border-0 shadow-sm">
-                    <img src="https://randomuser.me/api/portraits/women/44.jpg" class="card-img-top rounded-circle mx-auto mt-4" style="width: 150px; height: 150px; object-fit: cover;" alt="Maya Sari">
+                    <img src="{{ asset('images/ike.JPG') }}" alt="ike>"  class="card-img-top rounded-circle mx-auto mt-4" style="width: 150px; height: 150px; object-fit: cover;" alt="Maya Sari">
                     <div class="card-body">
-                        <h5 class="card-title">Maya Sari</h5>
-                        <p class="text-muted">Marketing Manager</p>
+                        <h5 class="card-title">Marizke Mega Utami</h5>
+                        <p class="text-muted">2310120023</p>
                         <p class="card-text">Mengelola pemasaran dan perluasan jaringan distribusi produk ke seluruh Indonesia.</p>
                         <div class="social-links">
                             <a href="#" class="text-primary me-2"><i class="fab fa-linkedin"></i></a>

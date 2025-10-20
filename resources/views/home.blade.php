@@ -24,12 +24,12 @@
         <div class="row">
             <div class="col-md-4 mb-4">
                 <div class="card product-card shadow-sm h-100">
-                    <img src="https://images.unsplash.com/photo-1596797038530-2c107229654b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="card-img-top" alt="Amplang Original">
+                    <img src="{{ asset('images/amplang2.jpg') }}" alt="amplang2>" class="card-img-top" alt="Amplang Original">
                     <div class="card-body">
-                        <h5 class="card-title">Amplang Original</h5>
+                        <h5 class="card-title">Amplang reguler</h5>
                         <p class="card-text">Amplang dengan rasa original yang gurih dan renyah, dibuat dari ikan tenggiri pilihan.</p>
                         <div class="d-flex justify-content-between align-items-center">
-                            <span class="fw-bold text-primary">Rp 25.000</span>
+                            <span class="fw-bold text-primary">Rp 12.500</span>
                             <button class="btn btn-sm btn-outline-primary">Beli Sekarang</button>
                         </div>
                     </div>
@@ -37,10 +37,10 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card product-card shadow-sm h-100">
-                    <img src="https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="card-img-top" alt="Amplang Pedas">
+                    <img src="https://tse2.mm.bing.net/th/id/OIP.Twwuc9BlEZdAtLksjsOcVQHaHa?pid=Api&P=0&h=220" class="card-img-top" alt="Amplang Pedas">
                     <div class="card-body">
-                        <h5 class="card-title">Amplang Pedas</h5>
-                        <p class="card-text">Untuk penggemar pedas, amplang dengan campuran cabai pilihan yang menggugah selera.</p>
+                        <h5 class="card-title">Amplang 300gr</h5>
+                        <p class="card-text">Ukuran lebih besar.</p>
                         <div class="d-flex justify-content-between align-items-center">
                             <span class="fw-bold text-primary">Rp 28.000</span>
                             <button class="btn btn-sm btn-outline-primary">Beli Sekarang</button>

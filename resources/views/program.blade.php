@@ -40,7 +40,7 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card product-card shadow-sm h-100">
-                    <img src="https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" class="card-img-top" alt="Amplang Pedas">
+                    <img src="https://tse4.mm.bing.net/th/id/OIP.jylGEwWT--mfUHHMzxJRHAHaE8?pid=Api&P=0&h=220" class="card-img-top" alt="Amplang Pedas">
                     <div class="card-body">
                         <h5 class="card-title">Amplang Pedas</h5>
                         <p class="card-text">Untuk penggemar pedas, amplang dengan campuran cabai pilihan yang menggugah selera.</p>
